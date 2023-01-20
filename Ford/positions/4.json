@@ -1,0 +1,220 @@
+{
+    "1": {
+        "vehicle_type": {
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "17": "Hydraulic"
+        },
+        "class": {
+            "17": "Class G"
+        },
+        "weight": {
+            "17": "8,501-9,000 lbs"
+        }
+    },
+    "2": {
+        "vehicle_type": {
+            "10": "MPV, Truck",
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "10": "Hydraulic",
+            "17": "Hydraulic"
+        },
+        "class": {
+            "10": "Class E",
+            "17": "Class H"
+        },
+        "weight": {
+            "10": "6,001-7,000 lbs",
+            "17": "9,001-10,000 lbs"
+        }
+    },
+    "3": {
+        "vehicle_type": {
+            "7": "Generic Passenger Car Format",
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "7": "Hydraulic",
+            "17": "Hydraulic"
+        },
+        "class": {
+            "7": "Class B",
+            "17": "Class 3"
+        },
+        "weight": {
+            "7": "3,001-4,000 lbs",
+            "17": "10,001-14,000 lbs"
+        }
+    },
+    "4": {
+        "vehicle_type": {
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "17": "Hydraulic"
+        },
+        "class": {
+            "17": "Class 4"
+        },
+        "weight": {
+            "17": "14,001-16,000 lbs"
+        }
+    },
+    "5": {
+        "vehicle_type": {
+            "10": "Passenger Car",
+            "11": "MPV, Truck",
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "10": "-",
+            "11": "Hydraulic",
+            "17": "Hydraulic"
+        },
+        "class": {
+            "10": "-",
+            "11": "Class E",
+            "17": "Class 5"
+        },
+        "weight": {
+            "10": "-",
+            "11": "6,001-7,000 lbs",
+            "17": "16,001-19,500 lbs"
+        }
+    },
+    "6": {
+        "vehicle_type": {
+            "0": "Passenger Car",
+            "7": "MPV, Truck",
+            "3": "MPV, Truck",
+            "5": "Truck, Bus",
+            "17": "Truck, Bus"
+        },
+        "brake_system": {
+            "0": "-",
+            "7": "Hydraulic",
+            "3": "Hydraulic",
+            "5": "Hydraulic",
+            "17": "Hydraulic"
+        },
+        "class": {
+            "0": "-",
+            "7": "Class C",
+            "3": "Class E",
+            "5": "Class G",
+            "17": "Class 6"
+        },
+        "weight": {
+            "0": "-",
+            "7": "4,001-5,000 lbs",
+            "3": "6,001-7,000 lbs",
+            "5": "8,501-9,000 lbs",
+            "17": "19,501-26,000 lbs"
+        }
+    },
+    "7": {
+        "vehicle_type": {
+            "12": "MPV, Truck",
+            "5": "Truck, Bus"
+        },
+        "brake_system": {
+            "12": "Hydraulic",
+            "5": "Hydraulic"
+        },
+        "class": {
+            "12": "Class C",
+            "5": "Class H"
+        },
+        "weight": {
+            "12": "4,001-5,000 lbs",
+            "5": "9,001-10,000 lbs"
+        }
+    },
+    "8": {
+        "vehicle_type": {
+            "12": "MPV, Truck",
+            "5": "Truck, Bus"
+        },
+        "brake_system": {
+            "12": "Hydraulic",
+            "5": "Hydraulic"
+        },
+        "class": {
+            "12": "Class D",
+            "5": "Class 3"
+        },
+        "weight": {
+            "12": "5,001-6,000 lbs",
+            "5": "10,001-14,000 lbs"
+        }
+    },
+    "9": {
+        "vehicle_type": {
+            "5": "Truck, Bus"
+        },
+        "brake_system": {
+            "5": "Hydraulic"
+        },
+        "class": {
+            "5": "Class 4"
+        },
+        "weight": {
+            "5": "14,001-16,000 lbs"
+        }
+    },
+    "A": {
+        "vehicle_type": {
+            "2": "Generic Passenger Car Format",
+            "5": "MPV, Truck",
+            "6": "Truck, Bus",
+            "3": "Truck, Bus"
+        },
+        "brake_system": {
+            "2": "Hydraulic",
+            "5": "Hydraulic",
+            "3": "Hydraulic",
+            "6": "Hydraulic"
+        },
+        "class": {
+            "2": "Class B",
+            "5": "Class C",
+            "3": "Class 5",
+            "6": "Class H"
+        },
+        "weight": {
+            "2": "3,001-4,000 lbs",
+            "5": "4,001-5,000 lbs",
+            "6": "9,001-10,000 lbs",
+            "3": "16,001-19,500 lbs"
+        }
+    },
+    "K": {
+        "vehicle_type": {
+            "0": "Passenger Car",
+            "4": "MPV, Truck",
+            "1": "Truck, Bus",
+            "14": "Truck, Bus"
+        },
+        "brake_system": {
+            "0": "-",
+            "4": "Hydraulic",
+            "1": "Hydraulic",
+            "14": "Hydraulic"
+        },
+        "class": {
+            "0": "-",
+            "4": "Class C",
+            "1": "Class 3",
+            "14": "Class G"
+        },
+        "weight": {
+            "0": "-",
+            "4": "4,001-5,000 lbs",
+            "1": "10,001-14,000 lbs",
+            "14": "8,501-9,000 lbs"
+        }
+    }
+}

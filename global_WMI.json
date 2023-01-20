@@ -1,0 +1,82 @@
+{
+    "1FA": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Passenger Car"
+    },
+    "2FA": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Passenger Car"
+    },
+    "1FB": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Bus"
+    },
+    "1FM": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "1FT": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "2FM": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "2LM": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "3FM": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, Mexico",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "3FT": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, Mexico",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "5LM": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "MAJ": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, India",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "NM0": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, Europe",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "1FC": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Basic (Stripped) Chassis - Incomplete"
+    },
+    "1F6": {
+        "Company": "FORD",
+        "manufacturer": "Detroit Chassis LLC, USA",
+        "type": "Basic (Stripped) Chassis - Incomplete"
+    },
+    "1FD": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Incomplete Vehicle - Incomplete"
+    },
+    "5LD": {
+        "Company": "FORD",
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Incomplete Vehicle- Limousine - Incomplete"
+    }
+}

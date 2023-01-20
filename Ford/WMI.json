@@ -1,0 +1,66 @@
+{
+    "1FA": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Passenger Car"
+    },
+    "2FA": {
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Passenger Car"
+    },
+    "1FB": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Bus"
+    },
+    "1FM": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "1FT": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "2FM": {
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "2LM": {
+        "manufacturer": "Ford Motor Company of Canada, Ltd.",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "3FM": {
+        "manufacturer": "Ford Motor Company, Mexico",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "3FT": {
+        "manufacturer": "Ford Motor Company, Mexico",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "5LM": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "MAJ": {
+        "manufacturer": "Ford Motor Company, India",
+        "type": "Multipurpose Passenger Vehicle"
+    },
+    "NM0": {
+        "manufacturer": "Ford Motor Company, Europe",
+        "type": "Truck (Completed Vehicle)"
+    },
+    "1FC": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Basic (Stripped) Chassis - Incomplete"
+    },
+    "1F6": {
+        "manufacturer": "Detroit Chassis LLC, USA",
+        "type": "Basic (Stripped) Chassis - Incomplete"
+    },
+    "1FD": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Incomplete Vehicle - Incomplete"
+    },
+    "5LD": {
+        "manufacturer": "Ford Motor Company, USA",
+        "type": "Incomplete Vehicle- Limousine - Incomplete"
+    },
+}

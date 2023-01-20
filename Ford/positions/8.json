@@ -1,0 +1,183 @@
+{
+    "0": {
+        "basic": "5.0L TIVCT V-8",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "E": {
+        "basic": "Extended Range Battery, Limited Rear Primary Drive Unit, Limited Larger Secondary Drive Unit",
+        "fuel": "Electric",
+        "net_HP": "TBD",
+        "trucks": {
+            "basic": "6.8L V-8",
+            "fuel": "Diesel",
+            "net_HP": "300/700"
+        }
+    },
+    "F": {
+        "basic": "5.0L 4V V-8",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "J": {
+        "basic": "5.2L",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "S": {
+        "basic": "Standard Range Battery, Rear Primary Drive Unit, Smaller Secondary Drive Unit",
+        "fuel": "Electric",
+        "net_HP": "TBD"
+    },
+    "U": {
+        "basic": "Extended Range Battery, Rear Primary Drive Unit, Smaller Secondary Drive Unit",
+        "fuel": "Electric",
+        "net_HP": "TBD"
+    },
+    "X": {
+        "basic": "Extended Range Battery, Rear Primary Drive Unit, Larger Secondary Drive Unit",
+        "fuel": "Electric",
+        "net_HP": "TBD",
+        "trucks": {
+            "basic": "6.7L V-8",
+            "fuel": "Diesel",
+            "net_HP": "330/725"
+        }
+    },
+    "2": {
+        "basic": "2.0L GDI I4",
+        "fuel": "Gasoline",
+        "net_HP": "162"
+    },
+    "3": {
+        "basic": "2.5L",
+        "fuel": "Hybrid Gas/Electric",
+        "net_HP": "TBD"
+    },
+    "5": {
+        "basic": "5.0L-4V V-8",
+        "fuel": "Gasoline",
+        "net_HP": "400"
+    },
+    "6": {
+        "basic": "1.5L Dragon DI TC Gas I-3, 1.5L Dragon I-3",
+        "fuel": "Gasoline",
+        "net_HP": "TBD",
+        "trucks": {
+            "basic": "6.2L V-8",
+            "fuel": "Gasoline",
+            "net_HP": "383"
+        }
+    },
+    "7": {
+        "basic": "2.5L DOHC PFI I4, Extd Range Battery - Rear Primary Drive Unit",
+        "fuel": "Gasoline, Electric",
+        "net_HP": "169"
+    },
+    "8": {
+        "basic": "3.5L GTDI V-6, 3.5L V6 Cyclone V-6",
+        "fuel": "Gasoline",
+        "net_HP": "400, 275"
+    },
+    "9": {
+        "basic": "2.0L GTDI 240PS Gas I-4, 2.0L GTDI I-4, 2.0L GTDI, 2.0L EcoBoost",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "B": {
+        "basic": "3.3L TIVCT V-6",
+        "fuel": "Gasoline",
+        "net_HP": "TBD, 290"
+    },
+    "C": {
+        "basic": "3.0L GTDI V-6",
+        "fuel": "Gasoline",
+        "net_HP": "TBD",
+        "trucks": {
+            "basic": "6.7L V-8",
+            "fuel": "Diesel",
+            "net_HP": "270/675"
+        }
+    },
+    "D": {
+        "basic": "2.3L 4V, 3.5L HEV V-6",
+        "fuel": "Gasoline, Electric",
+        "net_HP": "TBD, 430"
+    },
+    "G": {
+        "basic": "3.5L GTDI V-6, 3.5L EcoBoost V-6",
+        "fuel": "Gasoline",
+        "net_HP": "High Output, 310"
+    },
+    "H": {
+        "basic": "2.3L EcoBoost I-4, 2.3L TIVCT 4V, 2.3L TIVCT I-4, 2.3L TIVCT, 2.3L 4V I-4",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "K": {
+        "basic": "BEV Engine",
+        "fuel": "Electric",
+        "net_HP": "TBD",
+        "trucks": {
+            "basic": "7.3L V-8 Econ",
+            "fuel": "Gasoline",
+            "net_HP": "300"
+        }
+    },
+    "L": {
+        "basic": "2.0L I-4, Dual Electric Motors w/ Stnd Range Battery",
+        "fuel": "Gasoline, Electric",
+        "net_HP": "TBD"
+    },
+    "M": {
+        "basic": "Stnd Range Battery, Rear Primary Drive Unit",
+        "fuel": "Electric"
+    },
+    "N": {
+        "trucks": {
+            "basic": "7.3L V-8 Perm, 7.3L V-8, 7.3L 2V V8",
+            "fuel": "Gasoline, Gas/Gaseous Prep, Gasoline",
+            "net_HP": "350, 350/468, -"
+        }
+    },
+    "P": {
+        "basic": "2.7L EcoBoost V-6, 2.7L GTDI V-6, 2.7L-4V V-6",
+        "fuel": "Gasoline",
+        "net_HP": "TBD, TBD, 325"
+    },
+    "R": {
+        "basic": "3.0L EcoBoost V-6",
+        "fuel": "Gasoline",
+        "net_HP": "TBD"
+    },
+    "T": {
+        "basic": "3.5L GTDI V-6 FFV, 3.5L GTDI V-6",
+        "fuel": "Gasoline, Diesel",
+        "net_HP": "320/310, 440",
+        "trucks": {
+            "basic": "6.7L V-8",
+            "fuel": "Diesel",
+            "net_HP": "440"
+        }
+    },
+    "V": {
+        "basic": "Dual Electric Motors w/ Ext Range Battery",
+        "fuel": "Electric",
+        "net_HP": "TBD"
+    },
+    "W": {
+        "basic": "3.5L GTDI V-6, 3.3L TIVCT D4",
+        "fuel": "Gasoline, Hybrid/Electric",
+        "net_HP": "647, TBD"
+    },
+    "Y": {
+        "basic": "3.0L GTDI D4",
+        "fuel": "PHEV",
+        "net_HP": "TBD"
+    },
+    "Z": {
+        "basic": "2.5L HEV/PHEV I-4, 2.5L IVCT ",
+        "fuel": "FHEV/PHEV, PHEV",
+        "net_HP": "TBD"
+    }
+}

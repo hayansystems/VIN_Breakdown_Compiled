@@ -1,0 +1,1597 @@
+{
+    "P8C": {
+        "line": "Mustang",
+        "series": "GT Coupe",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P8F": {
+        "line": "Mustang",
+        "series": "GT Convertible",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P8T": {
+        "line": "Mustang",
+        "series": "I4 Coupe",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P8U": {
+        "line": "Mustang",
+        "series": "I4 Convertible",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P8R": {
+        "line": "Mustang",
+        "series": "Mach 1 Coupe",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P8S": {
+        "line": "Mustang",
+        "series": "Shelby GT500 Coupe",
+        "body": "2-Dr. Sedan LHD"
+    },
+    "P9C": {
+        "line": "Original GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9D": {
+        "line": "Carbon Series GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9E": {
+        "line": "Heritage Edition GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9F": {
+        "line": "Liquid Carbon Series GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9G": {
+        "line": "Studio Collection 1 GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9H": {
+        "line": "Studio Collection 2 GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9J": {
+        "line": "Studio Collection 3 GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "P9K": {
+        "line": "Final Edition GT",
+        "series": "RWD",
+        "body": "2-Dr. Sedan"
+    },
+    "E3F": {
+        "line": "Econoline",
+        "series": "E-350",
+        "body": "SRW / DRW | Cutaway | IV"
+    },
+    "E3K": {
+        "line": "Econoline",
+        "series": "E-350",
+        "body": "SRW / DRW | Stripped Chassis | IV"
+    },
+    "E4F": {
+        "line": "Econoline",
+        "series": "E-450",
+        "body": "SRW / DRW | Cutaway | IV"
+    },
+    "E4K": {
+        "line": "Econoline",
+        "series": "E-450",
+        "body": "SRW / DRW | Stripped Chassis | IV"
+    },
+    "F5D": {
+        "line": "Motorhome Chassis",
+        "series": "-",
+        "body": "4x2 | Stripped Chassis | IV"
+    },
+    "F5K": {
+        "line": "Commerical Chassis",
+        "series": "-",
+        "body": "4x2 | Stripped Chassis | IV"
+    },
+    "S3F": {
+        "line": "Ecosport",
+        "series": "S - 4WD",
+        "body": "5 DR HATCH"
+    },
+    "S3G": {
+        "line": "Ecosport",
+        "series": "SE - 4WD",
+        "body": "5 DR HATCH"
+    },
+    "S3J": {
+        "line": "Ecosport",
+        "series": "SES - 4WD",
+        "body": "5 DR HATCH"
+    },
+    "S3K": {
+        "line": "Ecosport",
+        "series": "Titanium - 4WD",
+        "body": "5 DR HATCH"
+    },
+    "E5A": {
+        "line": "Bronco",
+        "series": "Base, Big Bend, Black Diamond, Outer Banks",
+        "body": "4X4 | 2-Door 4x4 | MPV"
+    },
+    "E5B": {
+        "line": "Bronco",
+        "series": "Base, Big Bend, Black Diamond, Outer Banks",
+        "body": "4X4 | 4-Door 4x4 | MPV"
+    },
+    "E5C": {
+        "line": "Bronco",
+        "series": "Base, Big Bend, Black Diamond, Outer Banks, Badlands, Wildtrak",
+        "body": "AWD | 2-Door | Adv 4x4 | MPV"
+    },
+    "E5D": {
+        "line": "Bronco",
+        "series": "Base, Big Bend, Black Diamond, Outer Banks, Badlands, Wildtrak, Overland (J2)",
+        "body": "AWD | 4-Door Adv 4x4 | MPV"
+    },
+    "E5J": {
+        "line": "Bronco",
+        "series": "Raptor",
+        "body": "AWD | 4-Door Adv | 4x4 (Raptor) MPV"
+    },
+    "K1F": {
+        "line": "Expedition",
+        "series": "MAX XL",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "K1G": {
+        "line": "Expedition",
+        "series": "MAX XL",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "K1H": {
+        "line": "Expedition",
+        "series": "MAX XLT",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "K1J": {
+        "line": "Expedition",
+        "series": "MAX XLT",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "K1N": {
+        "line": "Expedition",
+        "series": "MAX King Ranch",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "K1P": {
+        "line": "Expedition",
+        "series": "MAX King Ranch",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "K1K": {
+        "line": "Expedition",
+        "series": "MAX Limited",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "K2A": {
+        "line": "Expedition",
+        "series": "MAX Limited",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "K1L": {
+        "line": "Expedition",
+        "series": "MAX Platinum",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "K1M": {
+        "line": "Expedition",
+        "series": "MAX Platinum",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "K4A": {
+        "line": "Edge",
+        "series": "ST",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "K4G": {
+        "line": "Edge",
+        "series": "SE",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "K4J": {
+        "line": "Edge",
+        "series": "SEL",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "K4K": {
+        "line": "Edge",
+        "series": "Titanium",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "K7B": {
+        "line": "Explorer",
+        "series": "Base",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7D": {
+        "line": "Explorer",
+        "series": "XLT",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7F": {
+        "line": "Explorer",
+        "series": "Limited",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7H": {
+        "line": "Explorer",
+        "series": "Platinum",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7L": {
+        "line": "Explorer",
+        "series": "King Ranch",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7G": {
+        "line": "Explorer",
+        "series": "ST",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K7K": {
+        "line": "Explorer",
+        "series": "ST-Line",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "K8A": {
+        "line": "Explorer",
+        "series": "Police",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8B": {
+        "line": "Explorer",
+        "series": "Base",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8D": {
+        "line": "Explorer",
+        "series": "XLT",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8F": {
+        "line": "Explorer",
+        "series": "Limited",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8G": {
+        "line": "Explorer",
+        "series": "ST",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8H": {
+        "line": "Explorer",
+        "series": "Platinum",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8L": {
+        "line": "Explorer",
+        "series": "King Ranch",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8K": {
+        "line": "Explorer",
+        "series": "ST-Line",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "K8J": {
+        "line": "Explorer",
+        "series": "Timberline",
+        "body": "4WD | 4-Door | MPV"
+    },
+    "R9A": {
+        "line": "Bronco Sport",
+        "series": "Base",
+        "body": "- | 4X4 | MPV"
+    },
+    "R9B": {
+        "line": "Bronco Sport",
+        "series": "Big Bend",
+        "body": "- | 4X4 | MPV"
+    },
+    "R9C": {
+        "line": "Bronco Sport",
+        "series": "Outer Banks",
+        "body": "- | 4X4 | MPV"
+    },
+    "R9D": {
+        "line": "Bronco Sport",
+        "series": "Badlands",
+        "body": "- | 4X4 | MPV"
+    },
+    "R9E": {
+        "line": "Bronco Sport",
+        "series": "Wildtrak (S America)",
+        "body": "- | 4X4 | MPV"
+    },
+    "U0F": {
+        "line": "Escape",
+        "series": "S",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0G": {
+        "line": "Escape",
+        "series": "SE",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0H": {
+        "line": "Escape",
+        "series": "SEL",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0B": {
+        "line": "Escape",
+        "series": "SE FHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0C": {
+        "line": "Escape",
+        "series": "SEL FHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0D": {
+        "line": "Escape",
+        "series": "Titanium FHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0E": {
+        "line": "Escape",
+        "series": "SE PHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0K": {
+        "line": "Escape",
+        "series": "SEL PHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U0L": {
+        "line": "Escape",
+        "series": "Titanium PHEV",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U9F": {
+        "line": "Escape",
+        "series": "S",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9G": {
+        "line": "Escape",
+        "series": "SE",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9H": {
+        "line": "Escape",
+        "series": "SEL",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9J": {
+        "line": "Escape",
+        "series": "Titanium",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9B": {
+        "line": "Escape",
+        "series": "SE FHEV",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9C": {
+        "line": "Escape",
+        "series": "SEL FHEV",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U9D": {
+        "line": "Escape",
+        "series": "Titanium FHEV",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U1F": {
+        "line": "Expedition",
+        "series": "XL",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U1G": {
+        "line": "Expedition",
+        "series": "XL",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U1H": {
+        "line": "Expedition",
+        "series": "XLT",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U1J": {
+        "line": "Expedition",
+        "series": "XLT",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U1N": {
+        "line": "Expedition",
+        "series": "King Ranch",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U1P": {
+        "line": "Expedition",
+        "series": "King Ranch",
+        "body": "4x4 | 4-Door | MPV"
+    },
+    "U1K": {
+        "line": "Expedition",
+        "series": "Limited",
+        "body": "4x2 | 4-Door | MPV"
+    },
+    "U2A": {
+        "line": "Expedition",
+        "series": "Limited",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "U1L": {
+        "line": "Expedition",
+        "series": "Platinum",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "U1M": {
+        "line": "Expedition",
+        "series": "Platinum",
+        "body": "4x4 | 4-Door | MPV"
+    },
+    "U1R": {
+        "line": "Expedition",
+        "series": "Timberline",
+        "body": "4x4 | 4-Door | MPV"
+    },
+    "J2M": {
+        "line": "LINCOLN Navigator",
+        "series": "Standard",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "J2N": {
+        "line": "LINCOLN Navigator",
+        "series": "Standard",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J2R": {
+        "line": "LINCOLN Navigator",
+        "series": "Preferred",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J2S": {
+        "line": "LINCOLN Navigator",
+        "series": "Presidental",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J3S": {
+        "line": "LINCOLN Navigator L",
+        "series": "Presidental",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J3M": {
+        "line": "LINCOLN Navigator L",
+        "series": "Standard",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "J3N": {
+        "line": "LINCOLN Navigator L",
+        "series": "Standard",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J2K": {
+        "line": "LINCOLN Navigator",
+        "series": "Reserve",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "J3K": {
+        "line": "LINCOLN Navigator L",
+        "series": "Reserve",
+        "body": "4X2 | 4-Door | MPV"
+    },
+    "J2L": {
+        "line": "LINCOLN Navigator",
+        "series": "Reserve",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J3L": {
+        "line": "LINCOLN Navigator L",
+        "series": "Reserve",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J2T": {
+        "line": "LINCOLN Navigator Black",
+        "series": "Label",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J3T": {
+        "line": "LINCOLN Navigator L Black",
+        "series": "Label",
+        "body": "4X4 | 4-Door | MPV"
+    },
+    "J6J": {
+        "line": "LINCOLN Nautilus",
+        "series": "-",
+        "body": "FWD | 4-Door | MPV"
+    },
+    "J8J": {
+        "line": "LINCOLN Nautilus",
+        "series": "-",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J6K": {
+        "line": "LINCOLN Nautilus",
+        "series": "Reserve",
+        "body": "FWD | 4-Door | MPV"
+    },
+    "J8K": {
+        "line": "LINCOLN Nautilus",
+        "series": "Reserve",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J9J": {
+        "line": "LINCOLN Nautilus Black",
+        "series": "Label",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J1C": {
+        "line": "LINCOLN Corsair",
+        "series": "Standard",
+        "body": "4X2 | 4-Door | CUV"
+    },
+    "J1D": {
+        "line": "LINCOLN Corsair",
+        "series": "Standard",
+        "body": "4X4 | 4-Door | CUV"
+    },
+    "J2C": {
+        "line": "LINCOLN Corsair",
+        "series": "Reserve",
+        "body": "4X2 | 4-Door | CUV"
+    },
+    "J2D": {
+        "line": "LINCOLN Corsair",
+        "series": "Reserve",
+        "body": "4X4 | 4-Door | CUV"
+    },
+    "J5D": {
+        "line": "LINCOLN Corsair Grand",
+        "series": "Touring",
+        "body": "4X4 | 4-Door | CUV"
+    },
+    "J6W": {
+        "line": "LINCOLN Aviator",
+        "series": "Base",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "J6X": {
+        "line": "LINCOLN Aviator",
+        "series": "Base",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J0W": {
+        "line": "LINCOLN Aviator",
+        "series": "Livery",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "J0X": {
+        "line": "LINCOLN Aviator",
+        "series": "Livery",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J7W": {
+        "line": "LINCOLN Aviator",
+        "series": "Reserve",
+        "body": "RWD | 4-Door | MPV"
+    },
+    "J7X": {
+        "line": "LINCOLN Aviator",
+        "series": "Reserve",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J8X": {
+        "line": "LINCOLN Aviator Grand",
+        "series": "Touring",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J9X": {
+        "line": "LINCOLN Aviator Black",
+        "series": "Label",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "J9Y": {
+        "line": "LINCOLN Aviator Black Label Grand",
+        "series": "Touring",
+        "body": "AWD | 4-Door | MPV"
+    },
+    "K1R": {
+        "line": "FORD Mustang Mach-E",
+        "series": "Select",
+        "body": "RWD | 4-Dr. LHD | -"
+    },
+    "K1S": {
+        "line": "FORD Mustang Mach-E",
+        "series": "Select",
+        "body": "AWD | 4-Dr. LHD | -"
+    },
+    "K2R": {
+        "line": "FORD Mustang Mach-E",
+        "series": "California Route 1",
+        "body": "RWD | 4-Dr. LHD | -"
+    },
+    "K2S": {
+        "line": "FORD Mustang Mach-E",
+        "series": "California Route 1",
+        "body": "AWD | 4-Dr. LHD | -"
+    },
+    "K3R": {
+        "line": "FORD Mustang Mach-E",
+        "series": "Premium",
+        "body": "RWD 4-Dr. LHD | -"
+    },
+    "K3S": {
+        "line": "FORD Mustang Mach-E",
+        "series": "Premium",
+        "body": "AWD 4-Dr. LHD | -"
+    },
+    "K4S": {
+        "line": "FORD Mustang Mach-E",
+        "series": "GT",
+        "body": "AWD | 4-Dr. LHD | -"
+    },
+    "R1E": {
+        "line": "FORD Ranger",
+        "series": "XL, XLT, LARIAT",
+        "body": "4X2 | SuperCab | Truck"
+    },
+    "R1F": {
+        "line": "FORD Ranger",
+        "series": "XL, XLT, LARIAT",
+        "body": "4X4 | SuperCab | Truck"
+    },
+    "R4E": {
+        "line": "FORD Ranger",
+        "series": "XL, XLT, LARIAT",
+        "body": "4X2 | SuperCrew | Truck"
+    },
+    "R4F": {
+        "line": "FORD Ranger",
+        "series": "XL, XLT, LARIAT",
+        "body": "4X4 | SuperCrew | Truck"
+    },
+    "W8E": {
+        "line": "FORD Maverick",
+        "series": "-",
+        "body": "4x2 | SuperCrew | Truck"
+    },
+    "W8F": {
+        "line": "FORD Maverick",
+        "series": "-",
+        "body": "4x4 | SuperCrew | Truck"
+    },
+    "F1C": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X2 | Regular Cab Truck"
+    },
+    "F1E": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 | Regular Cab Truck"
+    },
+    "F2A": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X2 | Regular Cab - SRW Truck / IV"
+    },
+    "F2B": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X4 | Regular Cab - SRW Truck / IV"
+    },
+    "F3A": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Regular Cab - SRW Truck / IV"
+    },
+    "F3B": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Regular Cab - SRW Truck / IV"
+    },
+    "F3C": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Regular Cab - DRW Truck / IV"
+    },
+    "F3D": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Regular Cab - DRW Truck / IV"
+    },
+    "F3E": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Regular Cab - SRW IV"
+    },
+    "F3F": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Regular Cab - SRW IV"
+    },
+    "F3G": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Regular Cab - DRW IV"
+    },
+    "F3H": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Regular Cab - DRW IV"
+    },
+    "F4C": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X2 | Regular Cab - DRW Truck / IV"
+    },
+    "F4D": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X4 | Regular Cab - DRW Truck / IV"
+    },
+    "F4G": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X2 | Regular Cab - DRW IV"
+    },
+    "F4H": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X4 | Regular Cab - DRW IV"
+    },
+    "F5G": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X2 | Regular Cab - DRW IV"
+    },
+    "F5H": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X4 | Regular Cab - DRW IV"
+    },
+    "F6K": {
+        "line": "FORD F-Series",
+        "series": "F-600",
+        "body": "4X2 | Regular Cab - DRW IV"
+    },
+    "F6L": {
+        "line": "FORD F-Series",
+        "series": "F-600",
+        "body": "4X4 | Regular Cab - DRW IV"
+    },
+    "F6A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Straight Frame IV"
+    },
+    "F6B": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Kick-up Frame IV"
+    },
+    "F6C": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Straight Frame IV"
+    },
+    "F6D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Straight Frame IV"
+    },
+    "F6E": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Kick-up Frame IV"
+    },
+    "F6T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 | Reg Cab Tractor IV"
+    },
+    "F7A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-750",
+        "body": "DRW 4X2 Reg Cab Straight Frame IV"
+    },
+    "F7D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Reg Cab Straight Frame IV"
+    },
+    "F7T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Reg Cab Tractor IV"
+    },
+    "W1C": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X2 | SuperCrew Truck"
+    },
+    "W1E": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 | SuperCrew Truck"
+    },
+    "W1R": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 | SuperCrew - Raptor Truck"
+    },
+    "W1P": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 | SuperCrew - Police Truck"
+    },
+    "W1S": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4x2 | SuperCrew SSV Truck"
+    },
+    "W1T": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 | SuperCrew SSV Truck"
+    },
+    "W2A": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X2 | Crew Cab - SRW Truck / IV"
+    },
+    "W2B": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X4 | Crew Cab - SRW Truck / IV"
+    },
+    "W3A": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Crew Cab - SRW Truck / IV"
+    },
+    "W3B": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Crew Cab - SRW Truck / IV"
+    },
+    "W3C": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Crew Cab - DRW Truck / IV"
+    },
+    "W3D": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 | Crew Cab - DRW Truck / IV"
+    },
+    "W3E": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 | Crew Cab - SRW IV"
+    },
+    "W3F": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 Crew Cab - SRW IV"
+    },
+    "W3G": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 Crew Cab - DRW IV"
+    },
+    "W3H": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 Crew Cab - DRW IV"
+    },
+    "W4C": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X2 Crew Cab - DRW Truck / IV"
+    },
+    "W4D": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X4 Crew Cab - DRW Truck / IV"
+    },
+    "W4G": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X2 Crew Cab - DRW IV"
+    },
+    "W4H": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X4 Crew Cab - DRW IV"
+    },
+    "W5G": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X2 Crew Cab - DRW IV"
+    },
+    "W5H": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X4 Crew Cab - DRW IV"
+    },
+    "W6A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 Crew Cab Straight Frame IV"
+    },
+    "W6B": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 Crew Cab Kick-up Frame IV"
+    },
+    "W6D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Crew Cab Straight Frame IV"
+    },
+    "W6E": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Crew Cab Kick-up Frame IV"
+    },
+    "W6T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Crew Cab Tractor IV"
+    },
+    "W7A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-750",
+        "body": "DRW 4X2 Crew Cab Straight Frame IV"
+    },
+    "W7D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Crew Cab Straight Frame IV"
+    },
+    "W7T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Crew Cab Tractor IV"
+    },
+    "X1C": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X2 SuperCab Truck"
+    },
+    "X1E": {
+        "line": "FORD F-Series",
+        "series": "F-150",
+        "body": "4X4 SuperCab Truck"
+    },
+    "X2A": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X2 SuperCab - SRW Truck / IV"
+    },
+    "X2B": {
+        "line": "FORD F-Series",
+        "series": "F-250",
+        "body": "4X4 SuperCab - SRW Truck / IV"
+    },
+    "X3A": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 SuperCab - SRW Truck / IV"
+    },
+    "X3B": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 SuperCab - SRW Truck / IV"
+    },
+    "X3C": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 SuperCab - DRW Truck / IV"
+    },
+    "X3D": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 SuperCab - DRW Truck / IV"
+    },
+    "X3E": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 SuperCab - SRW IV"
+    },
+    "X3F": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 SuperCab - SRW IV"
+    },
+    "X3G": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X2 SuperCab - DRW IV"
+    },
+    "X3H": {
+        "line": "FORD F-Series",
+        "series": "F-350",
+        "body": "4X4 SuperCab - DRW IV"
+    },
+    "X4G": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X2 SuperCab - DRW IV"
+    },
+    "X4H": {
+        "line": "FORD F-Series",
+        "series": "F-450",
+        "body": "4X4 SuperCab - DRW IV"
+    },
+    "X5G": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X2 SuperCab - DRW IV"
+    },
+    "X5H": {
+        "line": "FORD F-Series",
+        "series": "F-550",
+        "body": "4X4 SuperCab - DRW IV"
+    },
+    "X6A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 Super Cab Straight Frame IV"
+    },
+    "X6B": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-650",
+        "body": "DRW 4X2 Super Cab Kick-up Frame IV"
+    },
+    "X6D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Super Cab Straight Frame IV"
+    },
+    "X6E": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Super Cab Kick-up Frame IV"
+    },
+    "X6T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-650",
+        "body": "DRW 4X2 Super Cab Tractor IV"
+    },
+    "X7A": {
+        "line": "FORD F-Super Duty Gas",
+        "series": "F-750",
+        "body": "DRW 4X2 Super Cab Straight Frame IV"
+    },
+    "X7D": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Super Cab Straight Frame IV"
+    },
+    "X7T": {
+        "line": "FORD F-Super Duty Diesel",
+        "series": "F-750",
+        "body": "DRW 4X2 Super Cab Tractor IV"
+    },
+    "S6S": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Short Wheelbase Van Dual Sliding Door"
+    },
+    "E6S": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Short Wheelbase Van Dual Sliding Door"
+    },
+    "S6V": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Short Wheelbase Van Single Sliding Door"
+    },
+    "E6V": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Short Wheelbase Van Single Sliding Door"
+    },
+    "S7S": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Van Dual Sliding Door"
+    },
+    "E7S": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Van Dual Sliding Door"
+    },
+    "S7V": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Van Single Sliding Door"
+    },
+    "E7V": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Van Single Sliding Door"
+    },
+    "S6T": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Short Wheelbase Van Dual Sliding Door"
+    },
+    "E6T": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Short Wheelbase Van Dual Sliding Door"
+    },
+    "S6W": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Short Wheelbase Van Single Sliding Door"
+    },
+    "E6W": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Short Wheelbase Van Single Sliding Door"
+    },
+    "S7T": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Van Dual Sliding Door"
+    },
+    "E7T": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Van Dual Sliding Door"
+    },
+    "S7W": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Van Single Sliding Door"
+    },
+    "E7W": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Van Single Sliding Door"
+    },
+    "S7U": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Van US Postal Van"
+    },
+    "S9E": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Wagon"
+    },
+    "S9F": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Wagon"
+    },
+    "E9E": {
+        "line": "Transit Connect",
+        "series": "XL",
+        "body": "Long Wheelbase Wagon"
+    },
+    "E9F": {
+        "line": "Transit Connect",
+        "series": "XLT",
+        "body": "Long Wheelbase Wagon"
+    },
+    "E9G": {
+        "line": "Transit Connect",
+        "series": "Titanium",
+        "body": "Long Wheelbase Wagon"
+    },
+    "E2Y": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Van Truck/IV 8670# Low 130/148"
+    },
+    "E1Y": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Van Truck/IV 8670# Low 130/148"
+    },
+    "R2Y": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Van Truck/IV 9070# Low 130/148"
+    },
+    "R1Y": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Van Truck/IV 9070# Low 130/148"
+    },
+    "W1Y": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Van Truck/IV 9500# Low 130/148"
+    },
+    "W2Y": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Van Truck/IV 9500# Low 130/148"
+    },
+    "E1C": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Van Truck/IV 8670# Medium 130/148"
+    },
+    "E2C": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Van Truck/IV 8670# Medium 130/148"
+    },
+    "R1C": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Van Truck/IV 9070# Medium 130/148"
+    },
+    "R2C": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Van EL Truck/IV 9070# Medium 130/148"
+    },
+    "W9C": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Van Truck/IV 9500# Medium 130/148"
+    },
+    "W2C": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Van Truck/IV 9500# Medium 130/148"
+    },
+    "R1X": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Van Truck/IV 9070# High 148"
+    },
+    "R2X": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Van Truck/IV 9070# High 148"
+    },
+    "R3X": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Van EL Truck/IV 9070# High 148"
+    },
+    "R3U": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Van EL Truck/IV 9070# High 148"
+    },
+    "W1X": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Van Truck/IV 9500# High 148"
+    },
+    "W2X": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Van Truck/IV 9500# High 148"
+    },
+    "W3X": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Van EL Truck/IV 9500# High 148"
+    },
+    "W3U": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Van EL Truck/IV 9500# High 148"
+    },
+    "F4X": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Van EL DRW Truck/IV 9950# High 148"
+    },
+    "F4U": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW AWD Van EL DRW Truck/IV 9950# High 148 "
+    },
+    "S4X": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Van EL DRW Truck/IV 10360# High 148"
+    },
+    "S4U": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW AWD Van EL DRW Truck/IV 10360# High 148"
+    },
+    "U8X": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Van EL DRW Truck/IV 11000 High 148"
+    },
+    "U8U": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW AWD Van EL DRW Truck/IV 11000 High 148"
+    },
+    "K1Y": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Pass Van MPV/IV 8550# Low 130"
+    },
+    "K2Y": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Pass Van MPV/IV 8550# Low 130"
+    },
+    "X2Y": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Pass Van BUS/IV 9250# Low 148"
+    },
+    "X9Y": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Pass Van BUS/IV 9550# Low 148"
+    },
+    "K1C": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Pass Van MPV/IV 8550# Medium 130"
+    },
+    "K2C": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Pass Van MPV/IV 8550# Medium 130"
+    },
+    "X2C": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Pass Van BUS/IV 9250# Medium 148"
+    },
+    "X9C": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Pass Van BUS/IV 9550# Medium 148"
+    },
+    "X2X": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Pass Van BUS/IV 9250# High 148"
+    },
+    "X9X": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Pass Van BUS/IV 9550# High 148"
+    },
+    "U4X": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Pass Van EL BUS/IV 10360# High 148"
+    },
+    "U5X": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW AWD Pass Van EL BUS/IV 10360# High 148"
+    },
+    "R5P": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Cutaway IV 9070# N/A 138/156"
+    },
+    "R7P": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Cutaway IV 9070# N/A 138/156"
+    },
+    "W5P": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Cutaway IV 9500# N/A 138/156/178"
+    },
+    "W7P": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Cutaway IV 9500# N/A 138/156/178"
+    },
+    "F6P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Cutaway IV 9950# N/A 138/156/178"
+    },
+    "F8P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Cutaway IV 9950# N/A 138/156/178"
+    },
+    "S6P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Cutaway IV 10360# N/A 138/156/178"
+    },
+    "S8P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Cutaway IV 10360# N/A 138/156/178"
+    },
+    "U6P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Cutaway IV 11000 N/A 138/156/178"
+    },
+    "U8P": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Cutaway IV 11000 N/A 138/156/178"
+    },
+    "R5Z": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Chassis Cab IV 9070# N/A 138/156"
+    },
+    "R7Z": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Chassis Cab IV 9070# N/A 138/156"
+    },
+    "W5Z": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Chassis Cab IV 9500# N/A 138/156/178"
+    },
+    "W7Z": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Chassis Cab IV 9500# N/A 138/156/178"
+    },
+    "F6Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Chassis Cab IV 9950# N/A 138/156/178"
+    },
+    "F8Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Chassis Cab IV 9950# N/A 138/156/178"
+    },
+    "S6Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Chassis Cab IV 10360# N/A 138/156/178"
+    },
+    "S8Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Chassis Cab IV 10360# N/A 138/156/178"
+    },
+    "U6Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "RWD Chassis Cab IV 11020# N/A 138/156/178"
+    },
+    "U8Z": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "AWD Chassis Cab IV 11020# N/A 138/156/178"
+    },
+    "E1Z": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Crew Van TRUCK/IV 8670# Low 130/148"
+    },
+    "E9Z": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Crew Van TRUCK/IV 8670# Low 130/148"
+    },
+    "R1Z": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Crew Van TRUCK/IV 9070# Low 130/148"
+    },
+    "R2Z": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Crew Van TRUCK/IV 9070# Low 130/148"
+    },
+    "W1Z": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Crew Van TRUCK/IV 9500# Low 130/148"
+    },
+    "W2Z": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Crew Van TRUCK/IV 9500# Low 130/148"
+    },
+    "E1D": {
+        "line": "Transit",
+        "series": "150",
+        "body": "RWD Crew Van TRUCK/IV 8670# Medium 130/148"
+    },
+    "E2D": {
+        "line": "Transit",
+        "series": "150",
+        "body": "AWD Crew Van TRUCK/IV 8670# Medium 130/148"
+    },
+    "R1D": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Crew Van TRUCK/IV 9070# Medium 130/148"
+    },
+    "R2D": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Crew Van TRUCK/IV 9070# Medium 130/148"
+    },
+    "W1D": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Crew Van TRUCK/IV 9500# Medium 130/148"
+    },
+    "W2D": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Crew Van TRUCK/IV 9500# Medium 130/148"
+    },
+    "R1V": {
+        "line": "Transit",
+        "series": "250",
+        "body": "RWD Crew Van TRUCK/IV 9070# High 148"
+    },
+    "R2V": {
+        "line": "Transit",
+        "series": "250",
+        "body": "AWD Crew Van TRUCK/IV 9070# High 148"
+    },
+    "W1V": {
+        "line": "Transit",
+        "series": "350",
+        "body": "RWD Crew Van TRUCK/IV 9500# High 148"
+    },
+    "W2V": {
+        "line": "Transit",
+        "series": "350",
+        "body": "AWD Crew Van TRUCK/IV 9500# High 148"
+    },
+    "F4V": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Crew Van EL DRW TRUCK/IV 9950# High 148"
+    },
+    "F4W": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW AWD Crew Van EL DRW TRUCK/IV 9950# High 148"
+    },
+    "S4V": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRW RWD Crew Van EL DRW TRUCK/IV 10360# High 148"
+    },
+    "S4W": {
+        "line": "Transit",
+        "series": "350 HD",
+        "body": "DRWAWD Crew Van EL DRW TRUCK/IV 10360# High 148"
+    }
+}
