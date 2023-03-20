@@ -1,0 +1,10 @@
+{
+  "0": " No airbag or seatbelt pretensioners",
+  "1": " Driver's airbag only",
+  "2": " Driver and front passenger airbags",
+  "3": " Driver and front passenger airbags, side airbags",
+  "4": " Driver and front passenger airbags, side airbags, head airbags",
+  "5": " Driver and front passenger airbags, head airbags, knee airbags",
+  "6": " Driver and front passenger airbags, side airbags, knee airbags",
+  "8": " Driver and front passenger airbags, side airbags, head airbags, knee airbags"
+}
