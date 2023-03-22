@@ -1,0 +1,85 @@
+{
+  "JTD": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JTG": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Bus" },
+  "JTK": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JTN": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JTX": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JT1": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JT2": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JT7": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Passenger Car"
+  },
+  "JTA": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Truck" },
+  "JTB": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Truck" },
+  "JTF": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Truck" },
+  "JTM": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Truck" },
+  "JT4": { "manufacturer": "Toyota Motor Corporation", "type": "Toyota Truck" },
+  "JTE": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Multipurpose Passenger Vehicle (SUV)"
+  },
+  "JTL": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Multipurpose Passenger Vehicle (SUV)"
+  },
+  "JT3": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Toyota Multipurpose Passenger Vehicle (SUV)"
+  },
+  "JT5": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Incomplete Vehicle (typically a convertible)"
+  },
+  "JTH": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Lexus Passenger Car"
+  },
+  "JTJ": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Lexus Multipurpose Passenger Vehicle (SUV)"
+  },
+  "JT6": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Lexus Multipurpose Passenger Vehicle (SUV)"
+  },
+  "JT8": {
+    "manufacturer": "Toyota Motor Corporation",
+    "type": "Lexus Passenger Car"
+  },
+  "JDA": {
+    "manufacturer": "Daihatsu Motor Company Ltd.",
+    "type": "Daihatsu Passenger Car"
+  },
+  "JD1": {
+    "manufacturer": "Daihatsu Motor Company Ltd.",
+    "type": "Daihatsu Passenger Car"
+  },
+  "JD2": {
+    "manufacturer": "Daihatsu Motor Company Ltd.",
+    "type": "Daihatsu Passenger Car"
+  },
+  "JHA": { "manufacturer": "Hino Motors Ltd", "type": "Hino Truck" },
+  "JHB": { "manufacturer": "Hino Motors Ltd", "type": "Hino Truck" },
+  "JHC": { "manufacturer": "Hino Motors Ltd", "type": "Hino Truck" },
+  "JHD": { "manufacturer": "Hino Motors Ltd", "type": "Hino Truck" },
+  "JHE": { "manufacturer": "Hino Motors Ltd", "type": "Hino Truck" }
+}
