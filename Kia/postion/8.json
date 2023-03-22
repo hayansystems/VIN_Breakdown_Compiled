@@ -1,0 +1,10 @@
+{
+  "A": "LHD & AT",
+  "B": "LHD & MT",
+  "C": "LHD & MT+Transfer",
+  "D": "LHD & AT+Transfer",
+  "E": "LHD & CVT",
+  "F": "LHD & Reduction Gear",
+  "G": "LHD & DCT",
+  "H": "LHD & DCT+Transfer"
+}
